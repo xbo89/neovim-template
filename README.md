@@ -2,6 +2,7 @@
 
 base: 💤 LazyVim
 colorscheme: [solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim)
+
 terminal: iTerm2
 terminal theme: solarized dark (Background:#00141a,Bright Black: #002b36)
 terminal font:[Hack Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/Hack.zip)
